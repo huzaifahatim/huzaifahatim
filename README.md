@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzaifahatim
 - 👀 I’m interested in Blockchian
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently working in Solana blockchain 
 - 📫 How to reach me huzaifa.hatimzingblock.tk
 
 <!---
